@@ -2,6 +2,37 @@ body {
   background-color: lightgrey;
 }
 
-.carousel-indicators > li {
+/* .carousel-indicators > li {
   color: violet;
+} */
+
+a {
+  color: blueviolet;
 }
+footer {
+  background-color: #262626;
+  font-size: small;
+}
+
+footer a {
+  color: gray;
+}
+
+.fadein {
+  opacity: 1;
+}
+
+.fadein:hover {
+  opacity: 0.6;
+}
+/* figure {
+  max-width: 20%;
+} */
+
+/* ol.carousel-indicators.m-5 {
+  margin-top: 50px;
+} */
+/* .nav-link.active {
+  color: blueviolet;
+  background-color: indigo;
+} */
