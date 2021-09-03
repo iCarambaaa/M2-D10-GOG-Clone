@@ -36,3 +36,8 @@ footer a {
   color: blueviolet;
   background-color: indigo;
 } */
+.carousel-control-prev,
+.carousel-control-next {
+  width: 0.9rem;
+  color: blueviolet;
+}
