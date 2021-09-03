@@ -1,0 +1,7 @@
+body {
+  background-color: lightgrey;
+}
+
+.carousel-indicators > li {
+  color: violet;
+}
